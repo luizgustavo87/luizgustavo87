@@ -1,11 +1,8 @@
 ### Olá! Bem vindos ao meu perfil do Github!
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@exatascomluizgustavo9160)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eng.luizgustavo87/)
-
 ![Luiz Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizgustavo87&show_icons=true&theme=dracula)
 
-## Atualmente tenho contato com as linguagens de programação a seguir e as utilizo tanto no meu dia a dia quanto nas disciplinas que ensino aos alunos (matemática, física, etc.) 
+## Atualmente tenho contato com as linguagens de programação a seguir e as utilizo tanto no meu dia a dia quanto nas disciplinas que ensino aos alunos (matemática, física, etc.) e também em meus trabalhos como engenheiro e nos estudos de segurança cibernética. 
 💻 
 
 <div style="display: inline_block"> <br/>
