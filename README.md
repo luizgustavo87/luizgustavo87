@@ -7,7 +7,7 @@ My main research integrates **Finite Element Methods (FEM)** using **Julia + Gri
 
 - 🔬 Research: CFD, ADM1, multiphysics coupling  
 - 💻 Tools: Julia, Gridap, ParaView, LaTeX/Overleaf  
-- 📄 Publications: ENMC 2023, PeerJ 2024 (co-authored), ongoing MSc dissertation  
+- 📄 Publications: ENMC 2023, ENMC 2025, ongoing MSc dissertation  
 - 🌱 Interests: environmental biotechnology, renewable energy, computational science  
  
 
